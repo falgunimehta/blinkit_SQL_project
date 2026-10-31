@@ -30,3 +30,9 @@ The table Blinkit is a .CSV file and has the following columns, details of which
 ·       Outlet_Type: Indicates whether the store is a grocery store or a supermarket.
 
 ·       Item_Outlet_Sales: The sales of the product in the particular store. This is the outcome variable that we want to predict.
+
+Tools used:
+
+MySQL
+
+CSV file
